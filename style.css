@@ -236,8 +236,8 @@ h1 {
 }
 .medias {
     display: flex;
-    margin-left: 60px;
-    margin-top: 30px;
+    margin-left: 30%;
+    margin-top: 100px;
 }
 .media {
     width: 60px;
