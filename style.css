@@ -114,9 +114,7 @@ body {
     .menu-visible {
         left: 0px!important;
     }
-    .blocs-menu:nth-child(1) {
-        display: none;
-    }
+  
     .blocs-menu:nth-child(7) {
         display: none;
     }
@@ -854,7 +852,7 @@ h1 {
     align-items: center;
 }
 .boule-ico img {
-    width: 25px;
+    width: 35px;
 }
 
 .flex-cont-bloc-exp {

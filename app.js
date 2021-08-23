@@ -41,13 +41,13 @@ typewriter
 .typeString('<span style="color: #27ae60;"> CSS</span> !')
 .pauseFor(1000)
 .deleteChars(5)
-.typeString('<span style="color: #EA39ff;"> PHP</span> !')
+.typeString('<span style="color: #EA39ff;">Node</span> !')
 .pauseFor(1000)
-.deleteChars(5)
-.typeString('<span style="color: midnightblue;"> React</span> !')
+.deleteChars(6)
+.typeString('<span style="color: midnightblue;">React</span> !')
 .pauseFor(1000)
 .deleteChars(8)
-.typeString('<span style="color: #ff6910;"> JavaScript</span> !')
+.typeString('<span style="color: #ff6910;">JavaScript</span> !')
 .start()
 
 // Animation Contact
